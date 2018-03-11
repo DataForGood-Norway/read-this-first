@@ -6,7 +6,7 @@ DataForGood Norway is very young, but we got inspired from many other non-profit
 
 * [Data For Democracy](http://datafordemocracy.org/)
 * [Data For Good Canada](http://dataforgood.ca/)
-* [Data For Good Germany](https://datenschule.de/)
+* [Datenschule](https://datenschule.de/)
 * [Data For Good France](http://dataforgood.fr)
 * [DataKind](http://www.datakind.org/)
 * [Bayes Impact](https://www.bayesimpact.org/)
