@@ -11,13 +11,24 @@ DataforGood Norway: Helping to solve social and environmental issues using data 
 * [Bayes Impact](https://www.bayesimpact.org/)
 
 
+
+
+## For Whome?
+
+The main purpose of DataforGood is to assist organisations and public services, local and international, to tackle social and environmental issues 
+
+
+
+
+## Who can get involved?
+
+Data scientists, developers and everyone with an idea aiming to collaborate on projects that have a positive impact on society and the environment!
+
+
 ## Who runs D4G?
 
 The community does! Anybody who wants to contribute to making D4G better is **highly** encouraged to do so! Everything in D4G thus far has come from grassroots ideas proposed and pushed forward by a community member just like you and there's always more room for improvement. Whether it's starting a new project or proposing a new tool for the community to use, don't hesitate to just go for it!
 
-## Who can get involved?
-
-for data scientists, developers and everyone with an idea aiming to collaborate on projects that have a positive impact on society and the environment
 
 
 ## Getting Started  
