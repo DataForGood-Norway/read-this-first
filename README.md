@@ -12,11 +12,9 @@ DataforGood Norway: Helping to solve social and environmental issues using data 
 
 
 
+## For Whom?
 
-## For Whome?
-
-The main purpose of DataforGood is to assist organisations and public services, local and international, to tackle social and environmental issues 
-
+Organisations and public services, local and international, who want to make a difference and have a positive impact on our world and need help 
 
 
 
