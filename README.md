@@ -14,7 +14,7 @@ DataforGood Norway: Helping to solve social and environmental issues using data 
 
 ## For Whom?
 
-Organisations and public services, local and international, who want to make a difference and have a positive impact on our world and need help 
+Organisations and public services, local and international, who want to be an agent for positive change in our world and need help finding and implementing technical tools and solutions to pressing issues. 
 
 
 
