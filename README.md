@@ -1,8 +1,7 @@
 # Welcome to Data for Good (Norway)!
 
-> DataForGood aims to be an inclusive community for data scientists, designers, social entrepreneurs and philanthropists to volunteer and collaborate on projects that make a positive impact on society.
+DataforGood Norway: Helping to solve social and environmental issues using data science and technology.
 
-DataForGood Norway is very young, but we got inspired from many other non-profit organizations. To name a few: 
 
 * [Data For Democracy](http://datafordemocracy.org/)
 * [Data For Good Canada](http://dataforgood.ca/)
@@ -12,14 +11,27 @@ DataForGood Norway is very young, but we got inspired from many other non-profit
 * [Bayes Impact](https://www.bayesimpact.org/)
 
 
+
+## For Whom?
+
+Organisations and public services, local and international, who want to be an agent for positive change in our world and need help finding and implementing technical tools and solutions to pressing issues. 
+
+
+
+## Who can get involved?
+
+Data scientists, developers and everyone with an idea aiming to collaborate on projects that have a positive impact on society and the environment!
+
+
 ## Who runs D4G?
 
 The community does! Anybody who wants to contribute to making D4G better is **highly** encouraged to do so! Everything in D4G thus far has come from grassroots ideas proposed and pushed forward by a community member just like you and there's always more room for improvement. Whether it's starting a new project or proposing a new tool for the community to use, don't hesitate to just go for it!
 
+
+
 ## Getting Started  
 
 * We use Slack and GitHub as our primary means of organization and communication. Email join [at] dataforgood.no for an invite to the team.  
-* Check out how you can volunteer [across the community](#across-the-community).
 * If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
 * Have an idea for a new project? Join [#project-ideas](https://github.com/DataForGood-Norway/project-ideas/issues) to start a discussion on a new project.
@@ -27,20 +39,7 @@ The community does! Anybody who wants to contribute to making D4G better is **hi
 
 ## Across the Community
 
-While most of our work will be project based, we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers.
-
-### Project Leads
-There are a few people in every active project keeping the group on track, taking questions, and helping new folks get settled in -- that's by design. Leading a project can be a big time commitment, but it's hugely valuable to making sure we're doing useful work, and volunteers are getting the most out of volunteering. You don't need to be super technical, just organized and enthusiastic!
-
-### Storytelling
-Our projects will be doing some interesting data gathering and analysis that we hope to share with the world
-
-### Infrastructure and IT administration
-We're doing this on a per-project basis, along with building tools for data science collaboration, and always need help.
-
-### Matchmaker
-We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels.
-
+While most of our work will be project-based, we have some roles that take care of common needs and help the community to focus on project work itself. These roles can be time-consuming, but are also essential to making the community useful and a valuable experience for our volunteers. Have a look at [the roles repo in this organization](https://github.com/DataForGood-Norway/roles).
 
 
 ## Project Ideas
