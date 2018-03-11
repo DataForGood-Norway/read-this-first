@@ -1,6 +1,6 @@
 # Welcome to Data for Good (Norway)!
 
-> DataForGood aims to be an inclusive community for data scientists, designers, social entrepreneurs and philanthropists to volunteer and collaborate on projects that make a positive impact on society.
+DataforGood Norway is an active community for data scientists, developers and everyone with an idea aiming to collaborate on projects that have a positive impact on society and the environment. 
 
 DataForGood Norway is very young, but we got inspired from many other non-profit organizations. To name a few: 
 
