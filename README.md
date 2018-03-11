@@ -1,8 +1,7 @@
 # Welcome to Data for Good (Norway)!
 
-DataforGood Norway is an active community for data scientists, developers and everyone with an idea aiming to collaborate on projects that have a positive impact on society and the environment. 
+DataforGood Norway: Helping to solve social and environmental issues using data science and technology.
 
-DataForGood Norway is very young, but we got inspired from many other non-profit organizations. To name a few: 
 
 * [Data For Democracy](http://datafordemocracy.org/)
 * [Data For Good Canada](http://dataforgood.ca/)
@@ -15,6 +14,11 @@ DataForGood Norway is very young, but we got inspired from many other non-profit
 ## Who runs D4G?
 
 The community does! Anybody who wants to contribute to making D4G better is **highly** encouraged to do so! Everything in D4G thus far has come from grassroots ideas proposed and pushed forward by a community member just like you and there's always more room for improvement. Whether it's starting a new project or proposing a new tool for the community to use, don't hesitate to just go for it!
+
+## Who can get involved?
+
+for data scientists, developers and everyone with an idea aiming to collaborate on projects that have a positive impact on society and the environment
+
 
 ## Getting Started  
 
