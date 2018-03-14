@@ -3,14 +3,6 @@
 DataforGood Norway: Helping to solve social and environmental issues using data science and technology.
 
 
-* [Data For Democracy](http://datafordemocracy.org/)
-* [Data For Good Canada](http://dataforgood.ca/)
-* [Datenschule](https://datenschule.de/)
-* [Data For Good France](http://dataforgood.fr)
-* [DataKind](http://www.datakind.org/)
-* [Bayes Impact](https://www.bayesimpact.org/)
-
-
 
 ## For Whom?
 
@@ -47,3 +39,14 @@ If you have an idea for a project or are looking to start a new one, check out t
 
 You can check here for [tasks that are looking for help](https://github.com/DataForGood-Norway/project-ideas/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) and here for [projects that are looking for leads](https://github.com/DataForGood-Norway/project-ideas/issues?q=is%3Aissue+is%3Aopen+label%3A%22lead+wanted%22).
 
+
+## Similar organizations
+
+A non-exhaustive list of similar organizations to inspire us and to partner with:
+
+* [Data For Democracy](http://datafordemocracy.org/)
+* [Data For Good Canada](http://dataforgood.ca/)
+* [Datenschule](https://datenschule.de/)
+* [Data For Good France](http://dataforgood.fr)
+* [DataKind](http://www.datakind.org/)
+* [Bayes Impact](https://www.bayesimpact.org/)
