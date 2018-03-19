@@ -35,7 +35,7 @@ While most of our work will be project-based, we have some roles that take care 
 
 
 ## Project Ideas
-If you have an idea for a project or are looking to start a new one, check out the [#project-ideas channel in Slack](https://data4good-no.slack.com/messages/C9GSQP8CX/convo/C8S0LL6GZ-1519726328.000121/), and also [the project-ideas repo in this organisation](https://github.com/DataForGood-Norway/project-ideas/issues).
+If you have an idea for a project or are looking to start a new one, check out the [#project-ideas channel in Slack](https://dataforgood-norway.slack.com/messages/C9RN5JPMY/?), and also [the project-ideas repo in this organisation](https://github.com/DataForGood-Norway/project-ideas/issues).
 
 You can check here for [tasks that are looking for help](https://github.com/DataForGood-Norway/project-ideas/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22) and here for [projects that are looking for leads](https://github.com/DataForGood-Norway/project-ideas/issues?q=is%3Aissue+is%3Aopen+label%3A%22lead+wanted%22).
 
