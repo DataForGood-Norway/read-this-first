@@ -26,7 +26,7 @@ The community does! Anybody who wants to contribute to making D4G better is **hi
 * We use Slack and GitHub as our primary means of organization and communication. Email join [at] dataforgood.no for an invite to the team.  
 * If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
-* Have an idea for a new project? Join [#project-ideas](https://github.com/DataForGood-Norway/project-ideas/issues) to start a discussion on a new project. (Here's the link to [join Data for Good's Slack channel](https://join.slack.com/t/dataforgood-norway/shared_invite/enQtMzQyNDM4MjE4MDg3LWUzMzI4NzM4Mzc0NGU3YTI3NDA2OWE3MjdjNTIxNjliZmM0NTk3MzgyZjFmYTcwYTVkYzUwMzIxNTU1MDM0ZmE))
+* Have an idea for a new project? Join [#project-ideas](https://github.com/DataForGood-Norway/project-ideas/issues) to start a discussion on a new project. (Here's the link to [join Data for Good's Slack channel](https://join.slack.com/t/dataforgood-norway/shared_invite/enQtMzY1ODE2OTI1MTY5LWY3YWMyZTkwMDU4NWEyMTcyNDRkNjE2OGQ1ZTBlMmJmODU5Njk3NzVhNWQyNWNhYjZiZjA0ZjQ1NDlmYmFhMTQ))
 * Looking for a certain type of task in any project? Check the [task digest](#task-digest).
 
 ## Across the Community
